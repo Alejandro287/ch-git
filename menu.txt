@@ -1,0 +1,165 @@
+.----------------.  .----------------.  .----------------.  .----------------.  .-----------------. .----------------.   .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. | | .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| |  ____  ____  | || |      __      | || |  ___  ____   | || | _____  _____ | || | ____  _____  | || |      __      | | | |              | || | ____    ____ | || |      __      | || |  _________   | || |      __      | || |  _________   | || |      __      | |
+| | |_   ||   _| | || |     /  \     | || | |_  ||_  _|  | || ||_   _||_   _|| || ||_   \|_   _| | || |     /  \     | | | |              | || ||_   \  /   _|| || |     /  \     | || | |  _   _  |  | || |     /  \     | || | |  _   _  |  | || |     /  \     | |
+| |   | |__| |   | || |    / /\ \    | || |   | |_/ /    | || |  | |    | |  | || |  |   \ | |   | || |    / /\ \    | | | |    ______    | || |  |   \/   |  | || |    / /\ \    | || | |_/ | | \_|  | || |    / /\ \    | || | |_/ | | \_|  | || |    / /\ \    | |
+| |   |  __  |   | || |   / ____ \   | || |   |  __'.    | || |  | '    ' |  | || |  | |\ \| |   | || |   / ____ \   | | | |   |______|   | || |  | |\  /| |  | || |   / ____ \   | || |     | |      | || |   / ____ \   | || |     | |      | || |   / ____ \   | |
+| |  _| |  | |_  | || | _/ /    \ \_ | || |  _| |  \ \_  | || |   \ `--' /   | || | _| |_\   |_  | || | _/ /    \ \_ | | | |              | || | _| |_\/_| |_ | || | _/ /    \ \_ | || |    _| |_     | || | _/ /    \ \_ | || |    _| |_     | || | _/ /    \ \_ | |
+| | |____||____| | || ||____|  |____|| || | |____||____| | || |    `.__.'    | || ||_____|\____| | || ||____|  |____|| | | |              | || ||_____||_____|| || ||____|  |____|| || |   |_____|    | || ||____|  |____|| || |   |_____|    | || ||____|  |____|| |
+| |              | || |              | || |              | || |              | || |              | || |              | | | |              | || |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' | | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'   '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
+  		                                                                               
+-Una forma de ser
+
+																					   .IMMM?                                .. ..                                                   
+                		                                                                     :MMMMMMN,                                 ..                                                   
+ ..                             		                                                    .DMMMMMMM8                              .....  ..         ..                  .  ..             
+                                                		                              ,...  :MMMMMMMMM,   .,.                                                                               
+		       .........   ...............  .....    .  ....  .        ...   ... ,,,..$MM8?=7MMMMMMMMM7~?NMMI..... .   ......     ....   ....                     ..                        
+		......... ........ ......................    .  ....     ............$MMMMMMN$?+???ONMMMMMMMMMM87?+?IZMMMNMMMI..........  .....  .............................  .. ..      .  ......
+		                           .                                   .  .  ,7MMM$~ ~+?I?~.=MMMMMMMMM=.~+II+: +OMMMI. .   ..     ..     ....            ..                                 
+		                           .                                   .,=$D~.,~+M::$MMMMMM8=MMMMMMMMM=8MMMMMMI:~D~~..=DI:,..     ..     ....            ..                                 
+		 ...................,......................................  ..+=MMMMMMMMMMMMMMMMMMMMOMMMMMMMOMMMMMMMMMMMMMMMMMMMN~+=...  .....  .......    .................,,..........  ...  ..  
+		      :Z7~?:.    ,MNMM:.                                   .?DMMMMD78MMD=, ....,ZMMMMMMMMMMMMMMMMMZ......,=$MM$?NMMMMD~.                                  ..+MMMZ.   ..=+~7Z.       
+		      ?MMMMM,.   DM7OD.  .    .. . .                       .,$MMMD~DMM7         .ZMMMMMMMMMMMMMMMI..    ..  7MMO~MMMM7..                           .. . .. .:D7DM?.  ,=MMMMM,       
+		      +MMDDM=    DMM==I8MMMMMMMMMMMMD~                  . ~+$MMM7IMMM,.           ~MMMMNMMMNMMMM,           .~MMM~$MMN$I: ..                 +MMMMMMMMMMMMMZ?=IMM?.  .7MONMM:.      
+		    .+DMM.., .=: ,DMMMMMMMMMMMMMMMMMMM$.                :$MMMMM$=MMM8         ..   OMMMMMMMMMMMZ             ,NMMN=OMMMMM7,                :8MMMMMMMMMMMMMMMMMMM7  ~~ .:.~OM8:      
+		   .,MMMM....+MM=ZMMMMMMMMMMMMMMMMMMMMM~ ..             ~DMMMMMI,INMO    . ~$$=    7MMMMMMMMMMM7  . +$$:     .8MDI,IMMMMM8,               .7MMMMMMMMMMMMMMMMMMMMM?7MM,.. :ZMMZ      
+		   .,MMMM:.IMMMMMMMMMMMMMMM8ZZOMMMMMMMMM$.             .=MMMMMM8=  ,.    .7NMMMM=. ZN~.ZMMM7 :M$. ?MMMMM?.    ,.. +MMMMMMM=.             ,ZMMMMMMMMMZ$ZDMMMMMMMMMMMMMM8+ =8MMO.     
+		   ,DMMM$:?MMMMMMMMMMMMM$. ... .:78MMMMMM8             OMMO+MMMMMO..      OMMMMMI.+MM,.IMMM?.~MM=.IMMMMM$       .8MMMMM=8MMZ             DMMMMMMZI:. .....MMMMMMMMMMMMMM+:IMMM$.    
+		   .OMM: DMMMMMMMMMMMMMM:       . 7MMMMMMMM8,.      .,OMMM$:ND=NNI.       ?MMM7?,IMMD,.7MMM?.:NMMI,?ZMMM+       .ZNN8DD,OMMMZ,        ,MMMMMMMMM=        .?MMMMMMMMMMMMMM7,IMMI.    
+		   .$MMM=ZMMMMMMMMMM+DMD..~.     +MMMMMDZ8M? .. .. :ZMMIZMI ..  .      ,~~,7MMMMMZM8+ .DM,MZ. ?NDZNMMMM+::,,      .  .. OMZ7MMI,. .    $MO$DMMMMM,.    .~.:MMO?MMMMMMMMMMIIMMM+     
+		   :MMMMMMMMMMMMMMM::ZMMMMM. ..=?MMMMOMMMMMMM+ :MMMMM8  8MI    .,I8MMMMMMM88NMMMNI.N8..MM.M8 .N8.7NMMND88MMMMMMMO+,.    IMO  IMMMM8.,?MMMMMMMOMMMM?=.  =MMMMM? ?MMMMMMMMMMMMMMZ,    
+		    ..=MMMMMMMMMO88 ,7N$7I, ..+MMMMMN..,:~7DMMMMMMMM$. ZMM:  .?NMDI?MMN:,,....,,+MN$ZNNMM7MNNN$$NM+.......,+MMM+IDMN8.  =MMI  $MMMMMMMM8I~:,..MMMMMM:   ~77ZM~.:M$MMMMMMMMMO,..     
+		   .. .~ZMMMMMMM+IZ  ,,.    ..=MMMMMM.     .:$$$MMNI: +MMZ..?MMNI..ZMM~      . ..:8O++7MMMMN7?IDZ, ..       ?MM?..7MMM?.,NMM~.:7MMM$$7=.     ~MMMMMM,.     .:.  M:OMMMMMMMZ,....    
+		   7M.   MMMMMMM+..  .      .  NMMMMMM:    .....   .:$MMOOMMM8:  ~MMM?.      ?MMN=.OMMMMMMMMMMM$.?MMZ:       8MMN,...MMMMONMMM,..  . . .    ~MMMMMMN  .         . DMMMMMM$:  =M~    
+		   OMD$,:MMMMMMMO.             =8MMMMMMZ~..       .=8MMMMM8I:. ..OMMM+.    .:MDOMM,ZDDMMMMMMMDN7,MMONM:.     IMMMZ.  .~78MMMMMZ:        ..~ZMMMMMMD=             .MMMMMMMD+~ZMM7    
+		 ..8MMM8MMMMMMMMM,.             ,8MMMMMMND~:. .. :~OMMMMO=. .   .?OMMZ..    :MN:I+~MZ~MMMMMMM:ON~+?:MM,     .8MMZ+.      =OMMMN$=:....,:=DNMMMMMMZ.              +MMMMMMMMNNMMMI    
+		  +MMMMMMMMMMMMMMM8~ . .,:::::::::,:ZMMMMMMMMMMMMMMMMZ:,::::::::::::8MI:::::::?MMMN=::=?DMZ+~::+MMMD=,:::::,$M$::::::::::::::?MMMMMMMMMMMMMMMMZ~,:::::::::,:, .+NMMMMMMMMMMMMMMM:.  
+		  .7MMMMMMMMMNNMMMMMMI.7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIZMMMMMMDMMMMMMMMMM~.   
+		   7MMMMMMNMMN=MMMMMM7.7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7ZMMMMMO+MMMNMMMMMM~    
+		   ,8MMMM=~MMM=.MMMI,  $MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7,~ZMM7 8MMM,7NMMM?     
+		       .,.,MMMM~ :,.:ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7, ,. $MMMO .,.        
+		           IMMMM+ ..ZMMMMMMMMMM~:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::~7MMMMMMMMNI.. IMMMN:   .        
+		          ..OMMMM:. ~ZMMMMMMMMM..                                                                                                                   ?MMMMMMMMI, .+NMMMI.            
+		          .DMMMMMMMNNMMMMMMMMMM.                                                       MENU                                                         ?MMMMMMMMMNMNMMMMMMZ.  .    ..  
+		       .+,.NMMMMMMMMMMODMMMMMMM.                                                                                                                    ?MMMMMMMNMMMMMMMMMM8.:=.        
+		       =MN$OMMMMMMO~~,.7MMMMMMM.                     										                   										 ?MMMMMMMI.:=MMMMMMM?8MM,        
+		         8MMMMMMMMMM$: 7MMMMMMM.                                                                                                                    ?MMMMMMM?~OMMMMMMMMMM$:         
+		         ,IMMMMO+IZ8MM?IMMMMMMM.                    																							    ?MMMMMMMMMM$?+?8MMMM=...    ..  
+		          :MMMNZZ= .7NMDMMMMMMM.                              																					    ?MMMMMMMM8?  77ZMMMM,  .    ..  
+		           8MMMMMM= .,MMMMMMMMM.                              																					    ?MMMMMMMZ   $MMMMMMZ   .    ..  
+		           ,MMMMM7.  .?MMMMMMMM.                            																						?MMMMMMMI.  .MMMMMZ..  .    ..  
+		          . .?MMMMD.ODMMMMMMMMM.                                                                                                                    ?MMMMMMMN8$:NMMMM:              
+		     .. ...?IOMMM7..NMMMMMMMMMM.                                                                                                                    ?MMMMMMMMMO.~OMMM$7+,,          
+		     .Z8MMMMMMMMM~  ?O $MMMMMMM.                                                                                                                    ?MMMMMMMZZ~ .$MMMMMMMMMN?.      
+		     ~MMMMMMMMMMMM~ ?O $MMMMMMM.                   Tarantula Donuts. .......................................45 GBP. .            ..           ... 	    ?MMMMMMMOO= IMMMMMMMMMMMO,  ..  
+		    ,MMMMMMMMMMMMMM~IO.$MMMMMMM.                          															             ..           ...   ?MMMMMMM88=IMMMMMMMMMMMMM8. ..  
+		     =MMMMMMMMMMM~  ZD $MMMMMMM.                                                                                                                    ?MMMMMMMON? .?MMMMMMMMMMM, .    
+		      :MMMMMMMM8 . .O8 $MMMMMMM.                                                                                                                    ?MMMMMMMZNZ . :NMMMMMMMD,       
+		     .IMMMMMMMMD.   8O.$MMMMMMM.                                                                                                                    ?MMMMMMM$NZ   ~MMMMMMMMM:..     
+		   =MMD8MMMM~ .    :M$.7MMMMMMM.                                                                                                                    ?MMMMMMMIOM.  . . 7MMMMOMMD,    
+		   ,ZMMMMMNMM= .  .MD+.7MMMMMMM.                                                                                                                    ?MMMMMMM?7MO     ZMMNMMMMM?.    
+		   .:MMNMMMMM: . .8M7, 7MMMMMMM.                                                                                                                    ?MMMMMMMI~OM$.  .IMMMMMNMN.     
+		     =~:MMMMMZ+,.IMM=  7MMMMMMM.                   																                                    ?MMMMMMMI.?MM=.==8MMMMD,+:      
+		       .OMM8ZDMDDMMZ.  7MMMMMMM.                                                                                                                    ?MMMMMMMI..MMMOMM8ZOMM8 .       
+		       ZMMO  +MMMMI.   7MMMMMMM.                            																				      . ?MMMMMMMI. .8MMMM:  OMM+    ....
+		       ~DMD  ,MMMM.    7MMMMMMM.                                                                                                                    ?MMMMMMMI...~MMMZ. .NMO.        
+		      ++IMM   7MM7     7MMMMMMM.                                                                                                                    ?MMMMMMMI.  .NMM=. ,NM77:.      
+		     .?MM?:.   ?MM~    7MMMMMMM.                                                                                                                .   ?MMMMMMMI...IMM,    ~ZMM,       
+		      ~MMO,.  .,MM7.   7MMMMMMM.                                                                                                                    ?MMMMMMMI. ,MMZ .  .=8MM.       
+		      $MM7.   .7MMM..  7MMMMMMM.                             																				  ...   ?MMMMMMMI. =MMM=   .,OMM=   ..  
+		      $MMZ,.  . 8MZ..  7MMMMMMM.                            	       																          ...   ?MMMMMMMI...MMI .  .:8MM=   ..  
+		      =NNMN .. +MMN.   7MMMMMMM.                    Queen Ant Egg Toast......................................25 GBP.             ..           ...   ?MMMMMMMI. ~MMD: ..:MMM8,   ..  
+		      .~:DN. .~MMMM~   7MMMMMMM.                                                                                                                    ?MMMMMMMI. IMMMN.. ,MZ+:        
+		   .,MMMMMD   .:+MM:.  7MMMMMMM.                                                                                                                    ?MMMMMMMI. ?MM:: . .NMMMM7.     
+		    7MMMMMM,..  =MD.=I:7MMMMMMM.                                                                                                                    ?MMMMMMMZ+,:MM   ..=MMMMMM~.    
+		    :DMMMNM?    ?M8~DMD8MMMMMMM.                                                                                                                    ?MMMMMMMMM8=NM,   .OMNMMMZ.     
+		       . =DZ .. OMMMMM88MMMMMMM.                                                                                                                    ?MMMMMMMMMMMMM+...,M7:..        
+		         ,7M,  =MMMMMMNNMMMMMMM.                                                                                                                    ?MMMMMMMMMMMMMM.. ?M?..         
+		         ,IM, .$MMMMMMMMMMMMMMM.                                                                                                                    ?MMMMMMMMMMMMMM=..+M+.          
+		         ,$N,.=MM~=M7~,$MMMMMMM.                            																			       .... ?MMMMMMM$=ZM,?MM, =M?,..........
+		         +NO :MM?.     $MMMMMMM.                            																				    ... ?MMMMMMMI.   .MMO.,MZ~ .  ......
+		         IM$.ZMN,.     $MMMMMMM.                                                                                                                    ?MMMMMMMI.    +MM+.MM+.         
+		         $MZ7MM$.      $MMMMMMM.                                                                                                              ...   ?MMMMMMMI.     NMMINM7,         
+		        .MMMMMMM,      $MMMMMMM.                                                                                                                    ?MMMMMMMI.    =MMMMMM8=.        
+		        +MMMMO:        7MMMMMMM.                              	    																		    .   ?MMMMMMMI.  ..  =MMMMMI.    ..  
+		        $MMMM~ .       7MMMMMMM.                           	 																			      ...   ?MMMMMMMI.  .. . IMMMM7.    ..  
+		       ,MMMM7  .       7MMMMMMM.                                                                                                                    ?MMMMMMMI.      .,8MMMN         
+		       ?MMM: .~$NMMI.  7MMMMMMM.                                                                                                                    ?MMMMMMMI..MNND7:. ?MMM:        
+		       ZMMN.~ZMMMMMM$~ 7MMMMMMM.                   Mushi Ramen..............................................75 GPB.            ...                  ?MMMMMMM?=OMMMMMM?..NMM=    ..  
+		      .MMMMMMMMMMMMMMMDZMMMMMMM.                                                                                                                    ?MMMMMMMMMMMMMMMMMMMMMM$        
+		     .:MMMMMMMN~.. $MMMMMMMMMMM.                                                                                                                    ?MMMMMMMMMM=  ,IMMMMMMM8        
+		      +MMMMMM$,.  .,?8MNMMMMMMM.                                                                                                                    ?MMMMMMMMO=.    =DMMMMMM,       
+		      7MMMMM8,..    :ZI7MMMMMMM.                                                                                                                    ?MMMMMMMM$,      =MMMMMM:       
+		      ?MMMMM=...    . .$MMMMMMM.                               ...                                               ....            ..           ...   ?MMMMMMMI   ..   .$MMMMM:   ..  
+		     .?MMMMM:          7MMMMMMM.                                                                                                                    ?MMMMMMMI.       .?MMMMM,       
+		      :MMMMM=          7MMMMMMM.                                                                                                                    ?MMMMMMMI.        7MMMMD.       
+		       ZMMMMZ..     .  7MMMMMMM.                                                                                                                    ?MMMMMMMI .,..  .,MMMMM+        
+		       :MMMMMNI,=NNMND:IMMMMMMM.                                                                                                                    ?MMMMMMMODNMM8::$NMMMMD.        
+		       .IMMMMMMMMMMMMMNOMMMMMMM.                                                                                                                    ?MMMMMMMMMMMMMMMMMMMMMI.        
+	       		. 7MMMMMMMMMMMMMMMMMMMMM.                                                                                                                    ?MMMMMMMMMMMMMMMMMMMM?.         
+        	 	 ~MMMMMMMMMMM$7MMMMMMM.                                                                                                                    ?MMMMMMMMMMMMMMMMMMM,.          
+		        +DMMMOODNNDDZ? 7MMMMMMM.                               ...                                               ....            ..           ...   ?MMMMMMM7?Z8DNNDZ8MMNO=.    ..  
+		       =MMMMM:  ... .. 7MMMMMMM.                             .....                ..           ..                .................................. ?MMMMMMMI.  ...  +MMMMM:........
+		       7MMMMM?. ..     7MMMMMMM.    .                                                                                                               ?MMMMMMMI.    . ~$MMMMM~    ..  
+		      IMMZIIMMMN,   +O8NMMMMMMM.                                                                                                                    ?MMMMMMMM7~ . =MMMO+I8NM,.      
+		     .OMM.  ,8MMO  .DMMMMMMMMMM.                                                                                                 ..                 ?MMMMMMMMM8  :MMM?.  :ZMI.      
+		      =M8     ,DMM.8?.=MMMMMMMM.                                                                                                                    ?MMMMMMMI:$=:MMI     .$$.       
+		      .     .,  $MDM:  $MMMMMMM.                                                                                                                    ?MMMMMMMI.?NMM~ .     ..        
+		           I8DO=,MMM,  7MMMMMMM.                                                                                                                    ?MMMMMMMI.+MMO.+ZOZ=            
+		          .8D77MMNMM:  7MMMMMMM.                                                                                                              ..    ?MMMMMMMI.~MMMMN?ZN$.  .    ..  
+		            . ..DMMM=..7MMMMMMM.                                                                                                                    ?MMMMMMMI,+MMM$ . .             
+		                IMMMZ~ 7MMMMMMM.                                                                                                                    ?MMMMMMMI+8MMM~                 
+		         .      ?MMM?..7MMMMMMM.                                                                                                                    ?MMMMMMMI,7MMM~                 
+		                ZMMM:  7MMMMMMM.                                                                                                              ..    ?MMMMMMMI.=MMM+                 
+		                NMMM.  7MMMMMMM.                                                                                                              ..    ?MMMMMMMI..MMM7                 
+		         .     :MMM$.  7MMMMMMM.                                                                                                                    ?MMMMMMMI..NMM8.    ..          
+		      +MM8+.  .NMMMM=. 7MMMMMMM.                                                                                                                    ?MMMMMMMI.IMMMM$    $NMM,.      
+		     .DM$Z:. =MMMMMM, .7MMMMMMM.                               ...                ..                             ....            ..           ...   ?MMMMMMMI.:MMDMNN:  ?ZOM$.  ..  
+		      ?MD?=?OMMD8MMMZ$=ZMMMMMMM.                               ...                           ..                  ....            ..           ...   ?MMMMMMMZI$MMNZNMMZ?=IDN~   ..  
+		      +MMMMMMMI:MMMMZZMMMMMMMMM.                                                                                                                    ?MMMMMMMMOOMMMD:ZMMMMMMO:...    
+		    :MMMM   . :MMMMZ..MMMMMMMMM.                                                                                                                    ?MMMMMMMO..NMMMM, ...,ZMMZ.     
+		    IMMMZ.   .OMMMMO .,$MMMMMMM.                                                                                                                    ?MMMMMMMI .DMMMM$. ...7MMM:     
+		    ?MMN+. .,DMMMM$..  7MMMMMMM.                               ...                                               ....            ..           ...   ?MMMMMMMI. .MMMMM$....?MMM:...  
+		   . $MM8I$MMMMMMMMM,  7MMMMMMM.                               ...       ..      ...           ....     ..       .................................. ?MMMMMMMI.:MMMMMMMMMI7DMM? .....
+		      ,$8MMMMMMMMMMN:  7MMMMMMM.                               ...                                               ....            ..           ...   ?MMMMMMMI.~MMMMMMMMMMMN?..  ..  
+		     .. +MMMMMMMMMMM+. 7MMMMMMM.                               ...                                               ....            ..           ...   ?MMMMMMMI,7MMMMMMMMMMN?     ..  
+		     .~MMN$    +MMMMI, 7MMMMMMM.                               .                                                   ..                               ?MMMMMMMI~ZMMMM,    DMMD .      
+		   ..7MMZ.    ..~ZDMI,.7MMMMMMM.                                                                                                 ..           ..    ?MMMMMMMI~$MDI.     .:ZMM= ...  
+		   .IMMMO7~       $M8=.7MMMMMMM.                                                                                                                    ?MMMMMMMI?NM:.     .?$OMMM+     
+		   +MMMMOZ~       .ZNI.7MMMMMMM.                                                                                                                    ?MMMMMMM?ZM=       .+$$MMMM:    
+		  ~MMM=.. .7DN8+.  .MN,7MMMMMMM.                                                                                                 ..                 ?MMMMMMM8ND  ..IDNO=.. .ZMMN,   
+		  ZMMO. ,~?NMNNM7  ~MM8ZMMMMMMM.                                                                                                 ..           ..    ?MMMMMMMMMM,.,ZMNNMD=~..~MMM?   
+		 ~MMM~.7MMM8: .MM:.~NNMMMMMMMMM.                                                                                                                    ?MMMMMMMMNN..+M$. =MMMM: ZMMN,  
+		 OMMO,MMMD$=  IMM: ..+MMMMMMMMM.                                                                                                                    ?MMMMMMMM:   IMM:. I8MMMZ,MMM?  
+		,DMMDDMZ....  $MM7~:ZMMMMMMMMMM.                                                                                                                    ?MMMMMMMMD7~~8MM+  .,.:MM8NMM$  
+		:NMMMMM,      +MMMMMMMZOMMMMMMM.                                ..                                               ..                                 ?MMMMMMMMMMMMMMM:      =MMMMMZ  
+		:NMMMM?.       .$MMMMD $MMMMMMM.                                ..                                               ..                                 ?MMMMMMM8MMMMM+         8MMMMZ  
+		.DMMMM:..      .7MMMMN.$MMMMMMM.                                                                                                                    ?MMMMMMMZNMMMM=        .?MMMM7  
+		.ZMMMM:. ~:     ~MMMD?.$MMMMMMM.                                                                                                                    ?MMMMMMMI7MMMN.     ~:..?MMMM?  
+		,DMMMM~,IMN.    IMMMN? 7MMMMMMM.                                                                                                                .   ?MMMMMMM?$MMMM,    .MMZ.7MMMM7  
+		OMMMMMONMMM:.   .ZMM8+ $MMMMMMM.                                                                                                                    ?MMMMMMMI$MMM7     IMMM8NMMMMNI 
+		OMMMMMMMMMZ    .:$MMMM?7MMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IMMMMMMMNMMMMI.. ...DMMMMMMMMN+ 
+		,8MMMMMMMM8   .$MMMM7$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7$MMMM+ ...DMMMMMMMM7 .
+		ZMMMMMMMMN7   :MMMMM~.OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM?.IMMMMN....DMMMMMMMMN, 
+		.$MMMMMMMNI   ,7MMMM,.DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$.:MMMM~   .ZMMMMMMMM=  
+		 .8MMMMMMM8     ,==..~MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,..==  . . 8MMMMMMMI.  
+		   ~MMMMMMMN~     ..ZMMD+++++++++++++++++++=DMMMMM7++=++++++=7+NMMMMMMMMMDMMMMMMM+++?8MMMMMMMZ++=$MMMMMMMNMMMMMMMMMD+I+++++++=++OMMMMMZ=++++++++++++++++++IMMDI. .  ..?MMMMMMM8,    
+		   .:MMMMMMMMMMNMMMMMM7 ..    ....,,,,.    ...?MMMM?7M~ . +NMM+=DMMMMMMMMMMMMMMMMM?ZMMMMMMMMMMM7OMMMMMMMMMMMMMMMMMZ:,MMD~   IM+IMMMN~. . . ...,... .      .,OMMMMMMMMMMMMMMMMO. ..  
+		   .IMMMMMMMMMMMMMMMMMZ$I: .. ,7ZDNMMN8O7?: .  $NMMMMMN~:OMMMM+ :7887IOMMMMMMMMMMMNMMMMMMMMMMNNMMMMMMMMMMMMM7I7DO+. :MMMM$:7MMMMMMD?   .:I$O8DND8O$I. .. =I$OMMMMMMMMMMMMMMMMM=     
+		   ~MMMMMMMMMMMMMMMMMMMMMMI, 7MMMMMMMMMMMMMM7:.  ZMM88MMMMMMMMM       OMMMMMMMMMMMM?.,DMN~MMZ.,$MMMMMMMMMMMM=      ,?MMMMMMMMODMM+ . =OMMMMMMMMMMMMMM7.,OMMMMMMMMMMMMMMMMMMMMMO.    
+		    .,~+$MMMMMMO==MMIZMMMMMMMMMM8I??IZMMMMMMMMMMD+...  DMMMMMM?...    :MMMMMMD?MMMM7. . . . ...ZMMMM?MMMMMMD     .. :MMMMMM7 ...,7MMMMMMMMMMMO7??I8MMMMMMMMMMI$MM,7MMMMMMMZ=:,      
+		       . .~++:...7MM=8MMMMMMMMM:..   ..,IZMMMMMMMMMI~,:MMMMMMM~...     :8NMM7,.MMMMI..:~~~~~:.,$MMM$.~DNMNZ~     .. ,MMMMMMO,,=7MMMMMMMMMZ?,. .   .:MMMMMMMMMZ:MM=  ,~++:....       
+		         .       MMN8MMMMMMMMMZ.       .8MMMMMMMMMMMMMMMMMMMMM~O~            .,MMMM8OMMMMMMMMMODMMMZ .  ..       .+N7MMMMMMMMMMMMMMMMMMMMMZ        .8MMMMMMMMNOMM?                  
+		                .=MMMMMMMMMMMMM      . ZMM?...,:IDMMMMMMMMMMMNMMI            ~MMMMMMMMMMMMMMMMMMMMMM8.            7MMMMMMMMMMMMMMO+:,...DMM=.      .MMMMMMMMMMMMM..                 
+		                  .:,.?$O7$MMMZ        .$8,     ...+ZNMMMMMMMMMMM~.. .     .$MMMMMMMMMMMMMMMMMMMMMMMMD?  .    ..,?MMMMMMMMMMMM7=..      +ZI  ....   DMMM7OO$?,,:.                   
+		                           =~,                      ..$MMMMMMMMMMM7~....  +NMMMMMMMMMMMMMMMMMMMMMMMMMMMO~ . . .+OMMMMMMMMMMM?,.  ..     ..  .....   .:=,.       .. ..    ...    ..  
+		         .                                               7MMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMDMMMMMMMMMMMMMMMMMMMMM~.                                                         
+                		                                       ,MMMO???I$8MMMMMMNOI= ..7MMMMMMMMMMMMMMMMMMM=  .=I8MMMMMMMNZ$I~+NMM$                     .                          .    ..  
+		                                                       ,NMM? ... .,,~~:,,....  :8NMMMMMMMMMMMMMMNNO . . ..,,~~~:.. .  .OMMZ                     .                          .    ..  
+		         .                                               ,,.                   ...,OMMMMMMMMMMM$.  .                   .,,..                                                        
+		                                                                                   :?8MMMMMMMZ=,                                                .                                   
+		                                                                                      7MMMMM=                                                                                       
+		                                                                                                                                                                     
